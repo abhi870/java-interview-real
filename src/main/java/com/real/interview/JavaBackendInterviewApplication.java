@@ -10,4 +10,5 @@ public class JavaBackendInterviewApplication {
 		SpringApplication.run(JavaBackendInterviewApplication.class, args);
 	}
 
+
 }
